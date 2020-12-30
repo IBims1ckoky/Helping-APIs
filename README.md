@@ -1,6 +1,8 @@
 # Helping-APIs
 
-Watch2Gether Example
+
+
+#Watch2Gether Example
 
 ```
 Watch2GetherAPI watch2GetherAPI = new Watch2GetherAPI();
@@ -8,7 +10,7 @@ String roomURL = watch2GetherAPI.createRoom(URL);
 ```
 
 
-HasteBin Example
+#HasteBin Example
 
 ```
 HasteBinAPI hasteBinAPI = new HasteBinAPI();
@@ -17,7 +19,7 @@ String textFromHasteBin = hasteBinAPI.getHasteBin(hasteBinCODE);
 ```
 
 
-StrawPoll Example
+#StrawPoll Example
 
 ```
 StrawPollAPI strawPollAPI = new StrawPollAPI();
